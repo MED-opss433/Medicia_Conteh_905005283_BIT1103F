@@ -1,0 +1,31 @@
+# Mini Library Management System
+
+This is a simple Python-based Library Management System built for the Object-Oriented Programming 1 course at Limkokwing University.
+
+## Project Structure
+
+- `operations.py` – Core functions for managing books and members
+- `demo.py` – Demonstration script showing how the system works
+- `tests.py` – Unit tests using assert statements
+- `DesignRationale.pdf` – Explanation of design choices
+- `UML.png` – Hand-drawn UML diagram
+- `README.md` – This file
+
+## How to Run
+
+1. Open the project in PyCharm
+2. Run `demo.py` to see the system in action
+3. Run `tests.py` to verify functionality
+
+## Features
+
+- Add, update, delete books and members
+- Search books by title or author
+- Borrow and return books (limit: 3 per member)
+- Valid genre enforcement using tuples
+- Data stored in dictionaries and lists
+
+## Author
+Amadus Coker
+
+amadus.coker@limkokwing.edu.sl
